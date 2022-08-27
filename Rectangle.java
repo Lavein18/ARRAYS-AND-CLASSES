@@ -7,7 +7,7 @@ package javaapplication2;
 import java.util.Scanner;
 /**
  *
- * @author 21cse115
+ * @author 21cse113
  */
  class Rectangle {
    float length = 1.0f;
